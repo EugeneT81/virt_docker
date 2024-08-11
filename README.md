@@ -6,8 +6,7 @@ https://hub.docker.com/repository/docker/eugene513/custom-nginx/tags
 
 Задача 2
 
-![Task2](Task2.png)
-
+![alt text](Task2.png)
 
 
 
