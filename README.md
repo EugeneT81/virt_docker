@@ -10,6 +10,8 @@ https://hub.docker.com/repository/docker/eugene513/custom-nginx/tags
 
 Задача 3
 
+![alt text](Task3_1.png)
+
 
 
 
