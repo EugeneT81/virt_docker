@@ -84,3 +84,8 @@ If both files exist, Compose prefers the canonical compose.yaml.
 
 
 ![alt text](Task5_7.png)
+
+
+![alt text](Task5_8.png)
+
+Найдет контейнер-сирота(task5-portainer-1) - ранее запущенный, но его нет в текущем Docker compose файле. Используя флаг --remove-orphans этот контейнер удаляется.
