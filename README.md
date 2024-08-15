@@ -42,6 +42,8 @@ config.v2.json(ExposedPorts":{"81/tcp":{}})
 
 systemctl start docker
 
+docker start custom-nginx-t2
+
 ######################################
 
 ![alt text](Task3_4.png)
