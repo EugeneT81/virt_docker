@@ -64,3 +64,23 @@ docker rm -f custom-nginx-t2
 
 
 Задача 5
+
+
+![alt text](Task5_1.png)
+
+Был запущен compose.yaml.
+
+If both files exist, Compose prefers the canonical compose.yaml.
+
+![alt text](Task5_2.png)
+
+
+![alt text](Task5_3.png)
+
+
+![alt text](Task5_4.png)
+
+![alt text](Task5_6.png)
+
+
+![alt text](Task5_7.png)
