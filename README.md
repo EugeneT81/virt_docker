@@ -60,3 +60,7 @@ docker rm -f custom-nginx-t2
 Задача 4
 
 ![alt text](Task4.png)
+
+
+
+Задача 5
